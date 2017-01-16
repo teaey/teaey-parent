@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.teaey</groupId>
     <artifactId>teaey-parent</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>pom</packaging>
 
     <url>https://github.com/teaey/teaey-parent</url>
@@ -24,7 +24,7 @@
 
     <developers>
         <developer>
-            <name>Teaey</name>
+            <name>teaey(XiaoFei.Wu)</name>
             <email>masfay@163.com</email>
             <url>teaey.github.com</url>
             <timezone>+8</timezone>
